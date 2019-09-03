@@ -2,4 +2,5 @@
 
 int main(){
     printf("Hello World");
+    printf("Kan boonnok");
 }
